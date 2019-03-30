@@ -1,4 +1,11 @@
-# video-browser
+# Video browser app
+
+## A Vue app that behaves like a very simple copy of youtube.
+
+### Technologies used in the app:
+1. [Vue.js](https://vuejs.org/);
+2. [Axios](https://github.com/axios/axios);
+3. [Bootstrap v4.3](https://getbootstrap.com/);  
 
 ## Project setup
 ```
